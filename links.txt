@@ -1,0 +1,3 @@
+# batch processing
+
+http://code.markedmondson.me/4-ways-schedule-r-scripts-on-google-cloud-platform/
