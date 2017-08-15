@@ -1,14 +1,14 @@
-# batch processing
+Reading material for Batch processing
 
-why?
+Why?
 https://www.r-bloggers.com/batch-processing-vs-interactive-sessions/
 
-how to in microsoft?
+How to in microsoft?
 local- https://github.com/trinker/Make_Task
 cloud- https://github.com/Azure/doAzureParallel/blob/master/docs/README.md
 
-how in unix?
+How to in unix?
 https://cran.r-project.org/web/packages/cronR/README.html
 
-how to in google ecosystem?
+How to in google ecosystem?
 http://code.markedmondson.me/4-ways-schedule-r-scripts-on-google-cloud-platform/
