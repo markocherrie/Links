@@ -23,6 +23,9 @@ http://explore.data.parliament.uk/?endpoint=epetitions#download-list
 
 ##############      Learning Python ########################
 
+# the basics
+http://interactivepython.org/runestone/static/thinkcspy/index.html
+
 # with complexity theory
 http://www.greenteapress.com/complexity/thinkcomplexity.pdf
 
@@ -30,3 +33,5 @@ http://www.greenteapress.com/complexity/thinkcomplexity.pdf
 http://www.nltk.org/book/
 
 # with thoughtful machine learning
+
+
