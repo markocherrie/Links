@@ -19,3 +19,10 @@ http://code.markedmondson.me/4-ways-schedule-r-scripts-on-google-cloud-platform/
 #' Data
 
 http://explore.data.parliament.uk/?endpoint=epetitions#download-list
+
+
+##############      Learning Python ########################
+
+http://pythonbooks.revolunet.com/
+
+http://www.nltk.org/book/
