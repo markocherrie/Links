@@ -23,6 +23,9 @@ http://explore.data.parliament.uk/?endpoint=epetitions#download-list
 
 ##############      Learning Python ########################
 
+# making the switch from R
+http://n-s-f.github.io/2017/03/25/r-to-python.html
+
 # the basics
 http://interactivepython.org/runestone/static/thinkcspy/index.html
 
