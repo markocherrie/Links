@@ -26,6 +26,9 @@ http://explore.data.parliament.uk/?endpoint=epetitions#download-list
 # making the switch from R
 http://n-s-f.github.io/2017/03/25/r-to-python.html
 
+# basically download anaconda, then use ipython in command line or juptyer notebook in browser,
+# although rodeo is most rstudio like environment
+
 # the basics
 http://interactivepython.org/runestone/static/thinkcspy/index.html
 
