@@ -23,6 +23,10 @@ http://explore.data.parliament.uk/?endpoint=epetitions#download-list
 
 ##############      Learning Python ########################
 
-http://pythonbooks.revolunet.com/
+# with complexity theory
+http://www.greenteapress.com/complexity/thinkcomplexity.pdf
 
+# with natural language processing
 http://www.nltk.org/book/
+
+# with thoughtful machine learning
